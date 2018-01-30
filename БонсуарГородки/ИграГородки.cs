@@ -6,7 +6,7 @@ namespace БонсуарГородки
 	{
 		static int Main ()
 		{
-			Console.WriteLine("Test");
+			Console.WriteLine("Test 123");
 			Console.ReadLine();
 			return 0;
 		}
