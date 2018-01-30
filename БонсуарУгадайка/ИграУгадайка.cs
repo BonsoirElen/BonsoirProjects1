@@ -20,7 +20,7 @@ namespace БонсуарУгадайка
 
             A = Int32.Parse(Текст);                     //  преобразуем текст в число
 
-            Console.WriteLine("Проверка: " + " А= " + A + " B= " + B);
+            Console.WriteLine("Проверка: " + "А = " + A + ", " + B = " + B);
             Console.ReadLine();
             
             return 0;                                   //  выход из главной функции программы (функции Main)
