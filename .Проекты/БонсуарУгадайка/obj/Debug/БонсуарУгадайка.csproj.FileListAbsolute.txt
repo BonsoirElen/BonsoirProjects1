@@ -8,3 +8,9 @@ C:\Users\User\Desktop\BonsoirProjects1\.Проекты\БонсуарУгада�
 C:\Users\User\Desktop\BonsoirProjects1\БонсуарУгадайка\Сборка-EXE\БонсуарУгадайка.exe.config
 C:\Users\User\Desktop\BonsoirProjects1\БонсуарУгадайка\Сборка-EXE\БонсуарУгадайка.exe
 C:\Users\User\Desktop\BonsoirProjects1\БонсуарУгадайка\Сборка-EXE\БонсуарУгадайка.pdb
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\БонсуарУгадайка\Сборка-EXE\БонсуарУгадайка.exe.config
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\БонсуарУгадайка\Сборка-EXE\БонсуарУгадайка.exe
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\БонсуарУгадайка\Сборка-EXE\БонсуарУгадайка.pdb
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\.Проекты\БонсуарУгадайка\obj\Debug\БонсуарУгадайка.csprojResolveAssemblyReference.cache
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\.Проекты\БонсуарУгадайка\obj\Debug\БонсуарУгадайка.exe
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\.Проекты\БонсуарУгадайка\obj\Debug\БонсуарУгадайка.pdb

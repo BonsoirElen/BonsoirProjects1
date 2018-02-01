@@ -7,6 +7,14 @@ namespace БонсуарУгадайка
     {
         static int Main ()
         {
+            Main4();
+            return 0;
+        }
+
+
+
+        static int Main4 ()
+        {
             //  Создаем переменные для нашей игры.
             int ЧислоИгрока;
             int ЧислоЗадуманноеКомпом;

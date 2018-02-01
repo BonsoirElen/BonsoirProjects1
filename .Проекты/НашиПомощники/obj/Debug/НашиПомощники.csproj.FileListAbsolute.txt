@@ -5,3 +5,8 @@ C:\Users\User\Desktop\BonsoirProjects1\.Проекты\НашиПомощник�
 C:\Users\User\Desktop\BonsoirProjects1\.Проекты\НашиПомощники\obj\Debug\НашиПомощники.pdb
 C:\Users\User\Desktop\BonsoirProjects1\.ОбщийКод\НашиПомощники.dll
 C:\Users\User\Desktop\BonsoirProjects1\.ОбщийКод\НашиПомощники.pdb
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\.ОбщийКод\НашиПомощники.dll
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\.ОбщийКод\НашиПомощники.pdb
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\.Проекты\НашиПомощники\obj\Debug\НашиПомощники.csprojResolveAssemblyReference.cache
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\.Проекты\НашиПомощники\obj\Debug\НашиПомощники.dll
+C:\Users\BonsoirElen\Desktop\Учимся программировать\BonsoirProjects1\.Проекты\НашиПомощники\obj\Debug\НашиПомощники.pdb
