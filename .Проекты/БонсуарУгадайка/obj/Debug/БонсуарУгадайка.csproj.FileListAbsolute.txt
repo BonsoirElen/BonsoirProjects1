@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\BonsoirProjects1\.Проекты\БонсуарУгадайка\obj\Debug\БонсуарУгадайка.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BonsoirProjects1\БонсуарУгадайка\БонсуарУгадайка.exe.config
+C:\Users\User\Desktop\BonsoirProjects1\БонсуарУгадайка\БонсуарУгадайка.exe
+C:\Users\User\Desktop\BonsoirProjects1\БонсуарУгадайка\БонсуарУгадайка.pdb
+C:\Users\User\Desktop\BonsoirProjects1\.Проекты\БонсуарУгадайка\obj\Debug\БонсуарУгадайка.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\BonsoirProjects1\.Проекты\БонсуарУгадайка\obj\Debug\БонсуарУгадайка.exe
+C:\Users\User\Desktop\BonsoirProjects1\.Проекты\БонсуарУгадайка\obj\Debug\БонсуарУгадайка.pdb
+C:\Users\User\Desktop\BonsoirProjects1\БонсуарУгадайка\Сборка-EXE\БонсуарУгадайка.exe.config
+C:\Users\User\Desktop\BonsoirProjects1\БонсуарУгадайка\Сборка-EXE\БонсуарУгадайка.exe
+C:\Users\User\Desktop\BonsoirProjects1\БонсуарУгадайка\Сборка-EXE\БонсуарУгадайка.pdb

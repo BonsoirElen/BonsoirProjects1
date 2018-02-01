@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\BonsoirProjects1\.Проекты\НашиПомощники\bin\Debug\НашиПомощники.dll
+C:\Users\User\Desktop\BonsoirProjects1\.Проекты\НашиПомощники\bin\Debug\НашиПомощники.pdb
+C:\Users\User\Desktop\BonsoirProjects1\.Проекты\НашиПомощники\obj\Debug\НашиПомощники.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BonsoirProjects1\.Проекты\НашиПомощники\obj\Debug\НашиПомощники.dll
+C:\Users\User\Desktop\BonsoirProjects1\.Проекты\НашиПомощники\obj\Debug\НашиПомощники.pdb
+C:\Users\User\Desktop\BonsoirProjects1\.ОбщийКод\НашиПомощники.dll
+C:\Users\User\Desktop\BonsoirProjects1\.ОбщийКод\НашиПомощники.pdb
