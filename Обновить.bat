@@ -2,3 +2,5 @@
 chcp 1251
 
 git pull
+
+pause
